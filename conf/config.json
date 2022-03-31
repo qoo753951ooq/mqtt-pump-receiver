@@ -1,0 +1,15 @@
+{
+	"log": true,
+	"mqtt":{
+		"ip": "mqtts.xxxx.com.tw",
+		"port": 8883,
+		"user": "testUser",
+		"pwd": "testPwd",
+		"topic": "/equipment/router/city/supplier/pump"
+	},
+	"pump":{
+		"org_id": "xx",
+		"display": "2",	
+		"etype": "pumpstn"
+	}
+}
